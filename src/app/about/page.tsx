@@ -11,7 +11,7 @@ export default function About() {
         <div className="text-4xl mx-auto font-normal leading-snug text-neutral-600 dark:text-neutral-400">
           Shaping
           <FlipWords words={words} /> <br />
-          Digital Experiences with LZ{" "}
+          Digital Experiences with Lozy{" "}
         </div>
       </div>
       <div className="w-full">
@@ -19,11 +19,11 @@ export default function About() {
           Who We Are?
         </h1>
         <p className="text-xl mx-auto font-normal leading-snug text-left mb-20 text-neutral-600 dark:text-neutral-400">
-          LZ is a global IT solutions provider dedicated to helping
+          Lozy is a global IT solutions provider dedicated to helping
           businesses succeed in the digital space. We offer a full spectrum of
           services, including custom web design, web development, SEO, hosting,
           and technical support. With deep industry expertise and a commitment
-          to excellence, LZ delivers quality-driven, end-to-end solutions
+          to excellence, Lozy delivers quality-driven, end-to-end solutions
           tailored to our clients' unique needs.
         </p>
       </div>
