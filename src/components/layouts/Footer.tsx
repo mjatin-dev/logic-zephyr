@@ -34,7 +34,7 @@ const Footer = () => {
           <hr className="border-gray-800" />
           <div className="flex flex-col items-center justify-center">
             <p className="my-3 text-[12px] flex items-center text-gray-500 text-center">
-              © 2024 FRITS - Friday tect solutions
+              © {new Date().getFullYear()} FRITS - Friday tect solutions
               {/* | Crafted with{" "}
               <Heart size={14} className="mx-1" /> in Punjab */}
             </p>
