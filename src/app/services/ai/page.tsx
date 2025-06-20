@@ -37,7 +37,7 @@ export default function AI() {
 
       {/* <div className="container mx-auto mt-20 flex flex-col  max-w-6xl gap-10 items-start  justify-between p-5">
         <p>
-          At Frits, we harness the power of Artificial Intelligence to
+          At Logic Zephyr, we harness the power of Artificial Intelligence to
           revolutionize the way businesses operate. Our AI services are designed
           to streamline processes, enhance decision-making, and deliver
           cutting-edge solutions tailored to your unique needs.

@@ -79,7 +79,7 @@ export const testimonials = [
   {
     title: "Global Reach",
     description:
-      "Frits has a worldwide client base, serving businesses in the US, UK, Australia, Canada, and beyond. No matter where you are, Frits is ready to support your digital needs.",
+      "Logic Zephyr has a worldwide client base, serving businesses in the US, UK, Australia, Canada, and beyond. No matter where you are, Logic Zephyr is ready to support your digital needs.",
   },
   {
     title: "Competitive Pricing",
@@ -94,11 +94,11 @@ export const testimonials = [
   {
     title: "Comprehensive Services Under One Roof",
     description:
-      "From strategy and planning to development, marketing, and consulting, Frits offers a full range of services, simplifying your project management by handling everything in-house.",
+      "From strategy and planning to development, marketing, and consulting, Logic Zephyr offers a full range of services, simplifying your project management by handling everything in-house.",
   },
   {
     title: "Unwavering Quality",
     description:
-      "Quality is central to our work. Whether it’s digital marketing, web development, or consulting, Frits prioritizes excellence in every project, ensuring outcomes that drive long-term success.",
+      "Quality is central to our work. Whether it’s digital marketing, web development, or consulting, Logic Zephyr prioritizes excellence in every project, ensuring outcomes that drive long-term success.",
   },
 ];
