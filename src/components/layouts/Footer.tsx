@@ -17,7 +17,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 flex flex-col h-16 max-w-6xl">
         <div className="flex flex-col">
           <div className="flex mb-4 flex-row justify-between">
-            <p className="font-extrabold text-2xl text-white">FRITS</p>
+            <p className="font-extrabold text-2xl text-white">LZ</p>
             <div className="flex flex-row gap-4 items-center justify-between">
               {socialLinks.map((link) => (
                 <a

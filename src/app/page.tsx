@@ -18,10 +18,10 @@ export default function Home() {
           className="flex items-center flex-col justify-center px-2 md:px-10  py-4 w-full h-full"
         >
           <h1 className="md:text-7xl text-7xl lg:text-9xl font-bold text-center text-white  mt-6 relative z-20  bg-clip-text text-transparent bg-gradient-to-b from-neutral-800 via-neutral-700 to-neutral-700 dark:from-neutral-800 dark:via-white dark:to-white">
-            Logic Zephyr
+            LZ
           </h1>
           <p className="text-base md:text-lg mt-2 text-white font-normal inter-var text-center">
-            Logic Zephyr Solutions
+            LZ Solutions
           </p>
         </Vortex>
       </div>
