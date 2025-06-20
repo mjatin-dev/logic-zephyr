@@ -21,7 +21,7 @@ export default function Home() {
             LZ
           </h1>
           <p className="text-base md:text-lg mt-2 text-white font-normal inter-var text-center">
-            LZ Solutions
+            LZ Solutions Private Limited
           </p>
         </Vortex>
       </div>
