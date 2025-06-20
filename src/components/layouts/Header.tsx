@@ -32,7 +32,7 @@ export default function Header({ isSidebarOpen, toggleSidebar }: HeaderProps) {
             // <p className="font-extrabold text-2xl text-white">Lozy</p>
 
             <img
-              src="/images/frits_logo.png"
+              src="/images/logo.jpeg"
               alt="Lozy Logo"
               className="h-8 w-auto"
             />
