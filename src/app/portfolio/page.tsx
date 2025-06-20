@@ -112,7 +112,7 @@ const Portfolio = () => {
             Our Innovative Portfolio
           </h1>
           <p className="text-neutral-500 max-w-lg mt-6 mx-auto my-2 text-sm text-center relative z-10">
-            At Lozy, we specialize in delivering cutting-edge solutions to
+            At LOZY, we specialize in delivering cutting-edge solutions to
             empower businesses worldwide. Our innovative tools and services are
             designed to streamline your operations, enhance productivity, and
             drive success. Join us in shaping the future of technology.

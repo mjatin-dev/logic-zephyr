@@ -17,7 +17,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 flex flex-col h-16 max-w-6xl">
         <div className="flex flex-col">
           <div className="flex mb-4 flex-row justify-between">
-            <p className="font-extrabold text-2xl text-white">Lozy</p>
+            <p className="font-extrabold text-2xl text-white">LOZY</p>
             <div className="flex flex-row gap-4 items-center justify-between">
               {socialLinks.map((link) => (
                 <a
@@ -34,7 +34,7 @@ const Footer = () => {
           <hr className="border-gray-800" />
           <div className="flex flex-col items-center justify-center">
             <p className="my-3 text-[12px] flex items-center text-gray-500 text-center">
-               © {new Date().getFullYear()} Lozy - Logic Zephyr Solutions Private Limited
+               © {new Date().getFullYear()} LOZY - Logic Zephyr Solutions Private Limited
               {/* | Crafted with{" "}
               <Heart size={14} className="mx-1" /> in Punjab */}
             </p>
