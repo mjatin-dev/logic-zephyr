@@ -29,11 +29,11 @@ export default function Header({ isSidebarOpen, toggleSidebar }: HeaderProps) {
           {isSidebarOpen ? (
             <div className="loader"></div>
           ) : (
-            // <p className="font-extrabold text-2xl text-white">LOZY</p>
+            // <p className="font-extrabold text-2xl text-white">Logic Zephyr</p>
 
             <img
               src="/images/logo.png"
-              alt="LOZY Logo"
+              alt="Logic Zephyr Logo"
               className="h-8 w-auto"
             />
           )}
