@@ -17,12 +17,21 @@ export default function Home() {
           baseHue={500}
           className="flex items-center flex-col justify-center px-2 md:px-10  py-4 w-full h-full"
         >
-          <h1 className="md:text-7xl text-7xl lg:text-9xl font-bold text-center text-white  mt-6 relative z-20  bg-clip-text text-transparent bg-gradient-to-b from-neutral-800 via-neutral-700 to-neutral-700 dark:from-neutral-800 dark:via-white dark:to-white">
-            LOZY
-          </h1>
-          <p className="text-base md:text-lg mt-2 text-white font-normal inter-var text-center">
-            Logic Zephyr Solutions Private Limited
-          </p>
+          <div className="h-auto w-auto flex flex-col md:flex-row items-center md:items-end justify-center md:justify-end gap-4 md:gap-8">
+            <img
+              src="/images/logo.png"
+              alt="Logic Zephyr Logo"
+              className="h-[100px] w-auto md:h-[200px]"
+            />
+            <div className="h-full w-auto flex items-center md:items-start justify-center md:justify-end flex-col">
+              <p className="text-lg md:text-6xl font-extrabold text-white font-normal inter-var text-center md:text-left flex items-center">
+                Logic Zephyr
+              </p>
+              <p className="text-lg md:text-6xl font-extrabold text-white font-normal inter-var text-center md:text-left flex items-center">
+                solutions
+              </p>
+            </div>
+          </div>
         </Vortex>
       </div>
 
